@@ -33,4 +33,4 @@ for route in routes:
         app.router.add_route(route[0], route[1], route[2], name=route[3])
 
 if __name__ == '__main__':
-    web.run_app(app)
+    web.run_app(app, port=8088)

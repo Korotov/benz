@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "715eccd35fc680efa6ff10fd38e791c4adf7edcbea3df34fd8db2db7a47ae43a"
+            "sha256": "da325f720a540d139b78ef5b85d754f4dc70f16548c8c852ba352a66e210fef0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -33,6 +33,14 @@
             ],
             "index": "pypi",
             "version": "==3.6.2"
+        },
+        "aiohttp-session": {
+            "hashes": [
+                "sha256:74853d1177541cccfefb436409f9ea5d67a62f84e13946a3e115a765d9a0349c",
+                "sha256:959413468b84e30e7ca09719617cfb0000066a2e0f6c20062d043433e82aeb74"
+            ],
+            "index": "pypi",
+            "version": "==2.9.0"
         },
         "async-timeout": {
             "hashes": [
@@ -83,6 +91,13 @@
                 "sha256:fc3b4adc2ee8474cb3cd2a155305d5f8eda0a9c91320f83e55748e1fcb68f8e3"
             ],
             "version": "==4.7.5"
+        },
+        "peewee": {
+            "hashes": [
+                "sha256:85f6696b6691a315646047e0b19e9a28258b35612b7121bc4eb1b61ff53c760a"
+            ],
+            "index": "pypi",
+            "version": "==3.13.2"
         },
         "yarl": {
             "hashes": [
